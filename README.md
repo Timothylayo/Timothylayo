@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">About me:<br>A passionate and dedicated software developer with a year of experience in various programming languages and concepts, including Artificial Intelligence (AI), Machine Learning (ML), Pandas and Numpy for data analysis, and Backend Development with ASP.NET Core technologies. Skilled in creating and managing web applications, and knowledgeable about computer hardware and software maintenance, such as OS updates and error troubleshooting.</h2>
+<h4 align="left">About me:<br>A passionate and dedicated software developer with a year of experience in various programming languages and concepts, including Artificial Intelligence (AI), Machine Learning (ML), Pandas and Numpy for data analysis, and Backend Development with ASP.NET Core technologies. Skilled in creating and managing web applications, and knowledgeable about computer hardware and software maintenance, such as OS updates and error troubleshooting.</h4>
 
 ###
 
-<h2 align="left">✨ Creating and solving bugs since 2021<br>📚 I'm currently learning C# and its backend technologies and AI integration into applications<br>🎯 Goals: To become a certified Microsoft developer, to get better at what i do and to just continue learning, maybe in the end own my start-up <br>🎲 Fun fact: I love solving probems</h2>
+<h4 align="left">✨ Creating and solving bugs since 2021<br>📚 I'm currently learning C# and its technologies and how to integrate AI into applications<br>🎯 Goals:<br>- Earn Microsoft developer certification to solidify expertise and credibility.  <br>- Continuously refine skills and expand knowledge to excel in my craft.  <br>- Embrace lifelong learning and innovation to stay ahead in the industry.  <br>- Ultimately, leverage my experience and expertise to build and lead my own successful startup.  <br><br>🎲 Fun fact: I love solving probems</h4>
 
 ###
 
-<h2 align="left">I code with C#</h2>
+<h4 align="left">I code with C#</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/akerele-omolayole-a8b680246" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
